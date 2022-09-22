@@ -1,4 +1,4 @@
-#O script tem como função fazer uma scanner na rede conforme IP inserido identificar quais portas estão abertas 
+#O SCRIPT TEM COMO FUNÇÃO FAZER UMA SCANNER NA REDE CONFORME IP INSERIDO IDENTIFICAR QUAIS PORTAS ESTÃO ABERTAS
 import os
 import socket
 os.system('cls') 
