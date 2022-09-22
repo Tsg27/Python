@@ -1,3 +1,5 @@
+
+# O script tem como objetivo enviar um mensagem no e-mail no dominio gmail via python
 import os
 import smtplib
 from email.message import EmailMessage
