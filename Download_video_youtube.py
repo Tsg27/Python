@@ -1,6 +1,7 @@
 
-#O script tem como função realizar download dos video do youtube no formato MP4 e converter para MP3 também 
-#ATENÇÃO PARA FUNCIONAR BASTA EXECUTAR O CODIGO EM UMA IDE DE SUA PREFERENCIA.
+#O SCRIPT TEM COMO FUNÇÃO REALIZAR DOWNLOAD DO VÍDEO DO YOUTUBE NO FORMATO MP4 E CONVERTER PARA MP3 TAMBÉM 
+# ATENÇÃO PARA FUNCIONAR BASTA EXECUTAR O CODIGO EM UMA IDE DE SUA PREFERÊNCIA.
+
 
 from tkinter import mainloop
 import youtube_dl
